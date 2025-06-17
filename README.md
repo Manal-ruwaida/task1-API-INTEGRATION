@@ -25,3 +25,8 @@ This file defines the structure and layout of the web page. It includes essentia
 
 script.js:
 This JavaScript file contains all the logic necessary for API communication and DOM manipulation. It adds event listeners to HTML elements (e.g., buttons), uses the Fetch API to request data from an external source, handles asynchronous responses, manages error states, and injects the resulting data into the web page.
+
+
+
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/919200bf-027a-4873-ab04-77b8293a0bef)
